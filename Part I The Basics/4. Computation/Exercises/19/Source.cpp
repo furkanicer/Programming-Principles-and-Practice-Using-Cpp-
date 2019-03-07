@@ -18,6 +18,7 @@ int main()
 
 	User.writeVecElements();
 	User.findNameDuplicates();
+	User.~Info();
 
 
 	system("pause");
